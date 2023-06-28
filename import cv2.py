@@ -5,8 +5,8 @@ import webbrowser
 import requests
 import cv2
 
-TOKEN = '6028168312:AAGG3fJ7uo_rA99U0t4p1a22YxOHh2oG9Uk'
-chat_id = "1314511223"
+TOKEN = 'xxxx'
+chat_id = "xxxx"
   
 
 #cap = cv2.VideoCapture(0)
