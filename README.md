@@ -12,7 +12,7 @@ TTL module
 
 Jumper Wires
 
-ESP32 CAM Module
+## ESP32 CAM Module
 
 The ESP32 from Espressif Systems is a powerful dual-core microcontroller with built-in wireless that makes it a perfect fit for many creative Internet of Things projects. The ESP32-CAM development board takes it one step further by combining that speedy microcontroller with a camera module!
 
@@ -24,7 +24,7 @@ The module is equipped with the OV2640 camera module, which boasts the highest c
 The camera connects to the ESP32 CAM board via a 24-pin gold-plated connector. 
 Additionally, the board supports SD cards of up to 4GB, which can be used to store captured images.
 
-TTL MODULE
+## TTL MODULE
  
 Stable and reliable chipset CP2102.
 USB specification 2.0 compliant with full-speed 12Mbps.
@@ -32,4 +32,5 @@ Standard USB type A male and TTL 6pin connector.
 6 pins for 3.3V, RST, TXD, RXD, GND & 5V.
 Baud rates: 300 bps to 1.5 Mbps
 
-
+## Flowchart
+![image](https://github.com/eshagawate/QR-code_reader/assets/115074194/89064b1a-1179-4dec-adc3-ebddf1b55fe2)
