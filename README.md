@@ -33,4 +33,5 @@ Standard USB type A male and TTL 6pin connector.
 Baud rates: 300 bps to 1.5 Mbps
 
 ## Flowchart
-![image](https://github.com/eshagawate/QR-code_reader/assets/115074194/89064b1a-1179-4dec-adc3-ebddf1b55fe2)
+![image](https://github.com/eshagawate/QR-code_reader/assets/115074194/ec548e34-8fd4-48c5-92f6-4c57d96d666b)
+
